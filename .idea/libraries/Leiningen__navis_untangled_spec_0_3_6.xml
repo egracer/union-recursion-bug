@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: navis/untangled-spec:0.3.6">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/navis/untangled-spec/0.3.6/untangled-spec-0.3.6.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
