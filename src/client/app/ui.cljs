@@ -22,8 +22,9 @@
       (dom/li nil
         (dom/h4 nil author)
         (dom/p nil text)
-        (dom/ul nil
-          (map ui-comment replies))))))
+        (when replies
+          (dom/ul nil
+            (dom/li nil "Replies")))))))
 
 (def ui-comment (om/factory Comment {:keyfn :db/id}))
 
