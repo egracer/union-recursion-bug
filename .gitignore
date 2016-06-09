@@ -1,0 +1,6 @@
+.idea/
+dev-resources/
+target/
+resources/public/js
+*.iml
+*.log
