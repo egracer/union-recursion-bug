@@ -1,2 +1,0 @@
-;; Analyzed by ClojureScript 1.8.51
-{:name app.mutations, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {m untangled.client.mutations, untangled.client.mutations untangled.client.mutations}, :imports nil, :cljs.analyzer/constants {:seen #{view/comments :state :article/by-id :panel :comment-list/by-id :action view/article}, :order [view/article :state :action :panel :article/by-id view/comments :comment-list/by-id]}}

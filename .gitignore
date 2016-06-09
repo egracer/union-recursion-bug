@@ -4,3 +4,4 @@ target/
 resources/public/js
 *.iml
 *.log
+app.iml
